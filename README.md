@@ -16,13 +16,12 @@ you can install it with `pip install requests`
 2. download entire course with `python3 ../../course-downloader.py`
 
 you can use this options:
-* `-q` for setting video quality: `-q 1080`
-    if the given quality was unavailable, the highest available quality will be used  
+* `-q` for setting video quality: `-q 1080` if the given quality was unavailable, the highest available quality will be used
 * `-s` for downloading subtitles: `-s`
 * `-l` for subtitles language: `-l en`
 
 as rate limit policy applied to subtitle files, downloading a subtitle may fail. in this situation,
-the subtitle file will contain the subtitle like.  
+the subtitle file will contain the subtitle like.
 
 ## Finding video links (for contributors)
 * Open a lesson on the browser
@@ -36,4 +35,9 @@ Please put new video links to the data folder to help others, If you still have 
 
 ## Videos not yet completely added:
 
-* [Lesson 10 and 11 of **Touring Vue Router**](https://www.vuemastery.com/courses/touring-vue-router/)
+* [**Validating Vue 3 Forms**](https://www.vuemastery.com/courses/validating-vue3-forms/)
+* [**Querying with GraphQL**](https://www.vuemastery.com/courses/querying-with-graphql/)
+* [**Progressive Web Apps w/ Vue 3**](https://www.vuemastery.com/courses/progressive-web-apps-vue-3/)
+* [**Real World Testing**](https://www.vuemastery.com/courses/real-world-testing/)
+* [**Intro to Vue 3 + TypeScript**](https://www.vuemastery.com/courses/vue3-typescript/)
+* [**Validating Vue 3 Forms**](https://www.vuemastery.com/courses/validating-vue3-forms/why-vee-validate)
