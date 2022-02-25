@@ -26,6 +26,7 @@ async function startDownloadByID(vID, quality, appID) {
     try {
         var pageData = await getVimeoPageByID(vID, quality, appID)
         var videoURL = pageData.videoURL;
+        var subtitleURL = pageData.subtitleURL;
         var courseTitle = pageData.title || vID;
 
         if (videoURL !== null) {
@@ -35,6 +36,14 @@ async function startDownloadByID(vID, quality, appID) {
             }, reason => {
                 console.log('Error, ' + reason);
             });
+            //Download Video Subtitle from vimeo
+            if (subtitleURL !== null) {
+                await downloadFile(subtitleURL, courseTitle.replace(/[^\w\s]/gi, '-') + '.vtt').then(function gotData(data) {
+                    console.log(courseTitle + ', Subtitle Download Complete.');
+                }, reason => {
+                    console.log('Error, ' + reason);
+                });
+            }
         } else
             console.log('Video not found');
 
@@ -84,7 +93,8 @@ async function getVimeoPageByID(id, quality, appID) {
                 res.on("end", () => {
                     resolve({
                         videoURL: findVideoUrl(body, quality),
-                        title: findTitle(body)
+                        title: findTitle(body),
+                        subtitleURL: findSubtitleUrl(body)
                     });
                 });
                 res.on('error', (e) => {
@@ -109,6 +119,21 @@ function findVideoUrl(str, quality) {
                     break;
             }
             return videoURL;
+        }
+    }
+    return null;
+}
+
+function findSubtitleUrl(str) {
+    const regex = /(?:config = )(?:\{)(.*(\n.*?)*)(?:\"\})/gm;
+    let res = regex.exec(str);
+    if (res !== null) {
+        if (typeof res[0] !== "undefined") {
+            let config = res[0].replace('config = ', '');
+            config = JSON.parse(config);
+            let subtitleURL = 'https://vimeo.com' + config.request.text_tracks[0].url;
+
+            return subtitleURL;
         }
     }
     return null;
