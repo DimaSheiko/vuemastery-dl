@@ -77,7 +77,7 @@ if __name__ == "__main__":
 				if args.subtitle:
 					try:
 						print(video_info['title'], f": Downloading Subtitle...")
-						time.sleep(random.randint(1000, 4000))
+						time.sleep(random.randint(1, 4))
 						subtitle = requests.get(video_info['subtitle'], allow_redirects=True, )
 						with open(f"{video_info['filename']}.vtt", 'wb') as f:
 							f.write(subtitle.content)
