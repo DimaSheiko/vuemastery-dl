@@ -10,6 +10,10 @@
 * [View on VueMastery.com](https://vuemastery.com/courses/beautify-with-vuetify)
 * [Readme](./data/beautify-with-vuetify/Readme.md)
 
+# Build A Blog Nuxt3 Content
+* [View on VueMastery.com](https://vuemastery.com/courses/build-a-blog-nuxt3-content)
+* [Readme](./data/build-a-blog-nuxt3-content/Readme.md)
+
 # Build A Gmail Clone With Vue3
 * [View on VueMastery.com](https://vuemastery.com/courses/build-a-gmail-clone-with-vue3)
 * [Readme](./data/build-a-gmail-clone-with-vue3/Readme.md)
