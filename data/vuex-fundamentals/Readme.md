@@ -1,5 +1,5 @@
 # Vuex Fundamentals
-[View on VueMastery.com](https://vuemastery.com/courses/vue3-typescript)
+[View on VueMastery.com](https://vuemastery.com/courses/vuex-fundamentals)
 * [Lesson 01](https://player.vimeo.com/video/515894346?autoplay=1&app_id=122963)
 * [Lesson 02](https://player.vimeo.com/video/529759116?autoplay=1&app_id=122963)
 * [Lesson 03](https://player.vimeo.com/video/546747944?autoplay=1&app_id=122963)
