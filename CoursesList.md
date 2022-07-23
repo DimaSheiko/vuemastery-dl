@@ -54,6 +54,10 @@
 * [View on VueMastery.com](https://vuemastery.com/courses/progressive-web-apps-vue-3)
 * [Readme](./data/progressive-web-apps-vue-3/Readme.md)
 
+# Querying With Graphql
+* [View on VueMastery.com](https://vuemastery.com/courses/querying-with-graphql)
+* [Readme](./data/querying-with-graphql/Readme.md)
+
 # Real World Testing
 * [View on VueMastery.com](https://vuemastery.com/courses/real-world-testing)
 * [Readme](./data/real-world-testing/Readme.md)
