@@ -50,6 +50,10 @@
 * [View on VueMastery.com](https://vuemastery.com/courses/pinia-qa)
 * [Readme](./data/pinia-qa/Readme.md)
 
+# Progressive Web Apps Vue 3
+* [View on VueMastery.com](https://vuemastery.com/courses/progressive-web-apps-vue-3)
+* [Readme](./data/progressive-web-apps-vue-3/Readme.md)
+
 # Real World Testing
 * [View on VueMastery.com](https://vuemastery.com/courses/real-world-testing)
 * [Readme](./data/real-world-testing/Readme.md)
