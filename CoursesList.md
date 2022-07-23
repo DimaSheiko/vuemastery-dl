@@ -94,6 +94,10 @@
 * [View on VueMastery.com](https://vuemastery.com/courses/unit-testing-vue-3)
 * [Readme](./data/unit-testing-vue-3/Readme.md)
 
+# Validating Vue3 Forms
+* [View on VueMastery.com](https://vuemastery.com/courses/validating-vue3-forms)
+* [Readme](./data/validating-vue3-forms/Readme.md)
+
 # Vue 3 Composition Api
 * [View on VueMastery.com](https://vuemastery.com/courses/vue-3-composition-api)
 * [Readme](./data/vue-3-composition-api/Readme.md)
