@@ -50,6 +50,10 @@
 * [View on VueMastery.com](https://vuemastery.com/courses/next-level-vue)
 * [Readme](./data/next-level-vue/Readme.md)
 
+# Nuxt 3 Essentials
+* [View on VueMastery.com](https://vuemastery.com/courses/nuxt-3-essentials)
+* [Readme](./data/nuxt-3-essentials/Readme.md)
+
 # Pinia Qa
 * [View on VueMastery.com](https://vuemastery.com/courses/pinia-qa)
 * [Readme](./data/pinia-qa/Readme.md)
