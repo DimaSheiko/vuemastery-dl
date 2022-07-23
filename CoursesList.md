@@ -18,9 +18,9 @@
 * [View on VueMastery.com](https://vuemastery.com/courses/coding-better-composables)
 * [Readme](./data/coding-better-composables/Readme.md)
 
-# Component Pesign Patterns
-* [View on VueMastery.com](https://vuemastery.com/courses/component-pesign-patterns)
-* [Readme](./data/component-pesign-patterns/Readme.md)
+# Component Design Patterns
+* [View on VueMastery.com](https://vuemastery.com/courses/component-design-patterns)
+* [Readme](./data/component-design-patterns/Readme.md)
 
 # From Vue2 To Vue3
 * [View on VueMastery.com](https://vuemastery.com/courses/from-vue2-to-vue3)
