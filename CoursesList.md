@@ -50,6 +50,10 @@
 * [View on VueMastery.com](https://vuemastery.com/courses/pinia-qa)
 * [Readme](./data/pinia-qa/Readme.md)
 
+# Real World Testing
+* [View on VueMastery.com](https://vuemastery.com/courses/real-world-testing)
+* [Readme](./data/real-world-testing/Readme.md)
+
 # Real World Vue Js
 * [View on VueMastery.com](https://vuemastery.com/courses/real-world-vue-js)
 * [Readme](./data/real-world-vue-js/Readme.md)
