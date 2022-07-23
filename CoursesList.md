@@ -26,6 +26,10 @@
 * [View on VueMastery.com](https://vuemastery.com/courses/from-vue2-to-vue3)
 * [Readme](./data/from-vue2-to-vue3/Readme.md)
 
+# From Vuex To Pinia
+* [View on VueMastery.com](https://vuemastery.com/courses/from-vuex-to-pinia)
+* [Readme](./data/from-vuex-to-pinia/Readme.md)
+
 # Intro To Vue 3
 * [View on VueMastery.com](https://vuemastery.com/courses/intro-to-vue-3)
 * [Readme](./data/intro-to-vue-3/Readme.md)
