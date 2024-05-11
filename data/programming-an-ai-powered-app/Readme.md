@@ -1,0 +1,11 @@
+# Programming An Ai Powered App
+[View on VueMastery.com](https://vuemastery.com/courses/programming-an-ai-powered-app)
+* [Lesson 01](https://player.vimeo.com/video/859103510?autoplay=1&app_id=122963)
+* [Lesson 02](https://player.vimeo.com/video/859499176?autoplay=1&app_id=122963)
+* [Lesson 03](https://player.vimeo.com/video/861487966?autoplay=1&app_id=122963)
+* [Lesson 04](https://player.vimeo.com/video/863779771?autoplay=1&app_id=122963)
+* [Lesson 05](https://player.vimeo.com/video/863781037?autoplay=1&app_id=122963)
+* [Lesson 06](https://player.vimeo.com/video/864110697?autoplay=1&app_id=122963)
+* [Lesson 07](https://player.vimeo.com/video/864164898?autoplay=1&app_id=122963)
+* [Lesson 08](https://player.vimeo.com/video/868122255?autoplay=1&app_id=122963)
+* [Lesson 09](https://player.vimeo.com/video/868123583?autoplay=1&app_id=122963)

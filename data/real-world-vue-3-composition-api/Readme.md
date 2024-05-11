@@ -1,0 +1,10 @@
+# Real World Vue 3 Composition Api
+[View on VueMastery.com](https://vuemastery.com/courses/real-world-vue-3-composition-api)
+* [Lesson 01](https://player.vimeo.com/video/783022286?autoplay=1&app_id=122963)
+* [Lesson 02](https://player.vimeo.com/video/779059261?autoplay=1&app_id=122963)
+* [Lesson 03](https://player.vimeo.com/video/779423172?autoplay=1&app_id=122963)
+* [Lesson 04](https://player.vimeo.com/video/779736048?autoplay=1&app_id=122963)
+* [Lesson 05](https://player.vimeo.com/video/780936700?autoplay=1&app_id=122963)
+* [Lesson 06](https://player.vimeo.com/video/781674834?autoplay=1&app_id=122963)
+* [Lesson 07](https://player.vimeo.com/video/781686592?autoplay=1&app_id=122963)
+* [Lesson 08](https://player.vimeo.com/video/782005117?autoplay=1&app_id=122963)

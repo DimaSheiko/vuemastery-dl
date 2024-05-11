@@ -1,0 +1,10 @@
+# Utility First Css With Tailwind
+[View on VueMastery.com](https://vuemastery.com/courses/utility-first-css-with-tailwind)
+* [Lesson 01](https://player.vimeo.com/video/740500533?autoplay=1&app_id=122963)
+* [Lesson 02](https://player.vimeo.com/video/741251927?autoplay=1&app_id=122963)
+* [Lesson 03](https://player.vimeo.com/video/741252114?autoplay=1&app_id=122963)
+* [Lesson 04](https://player.vimeo.com/video/745886373?autoplay=1&app_id=122963)
+* [Lesson 05](https://player.vimeo.com/video/745886641?autoplay=1&app_id=122963)
+* [Lesson 06](https://player.vimeo.com/video/745887055?autoplay=1&app_id=122963)
+* [Lesson 07](https://player.vimeo.com/video/745887224?autoplay=1&app_id=122963)
+* [Lesson 08](https://player.vimeo.com/video/745887460?autoplay=1&app_id=122963)

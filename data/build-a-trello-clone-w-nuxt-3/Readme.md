@@ -1,0 +1,12 @@
+# Build A Trello Clone W Nuxt 3
+[View on VueMastery.com](https://vuemastery.com/courses/build-a-trello-clone-w-nuxt-3)
+* [Lesson 01](https://player.vimeo.com/video/896339154?autoplay=1&app_id=122963)
+* [Lesson 02](https://player.vimeo.com/video/896339912?autoplay=1&app_id=122963)
+* [Lesson 03](https://player.vimeo.com/video/896341727?autoplay=1&app_id=122963)
+* [Lesson 04](https://player.vimeo.com/video/897260365?autoplay=1&app_id=122963)
+* [Lesson 05](https://player.vimeo.com/video/897257689?autoplay=1&app_id=122963)
+* [Lesson 06](https://player.vimeo.com/video/897254855?autoplay=1&app_id=122963)
+* [Lesson 07](https://player.vimeo.com/video/897950650?autoplay=1&app_id=122963)
+* [Lesson 08](https://player.vimeo.com/video/897955069?autoplay=1&app_id=122963)
+* [Lesson 09](https://player.vimeo.com/video/897955769?autoplay=1&app_id=122963)
+* [Lesson 10](https://player.vimeo.com/video/898160465?autoplay=1&app_id=122963)

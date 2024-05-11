@@ -1,0 +1,12 @@
+# Nuxt 3 Middleware
+[View on VueMastery.com](https://vuemastery.com/courses/nuxt-3-middleware)
+* [Lesson 01](https://player.vimeo.com/video/814733152?autoplay=1&app_id=122963)
+* [Lesson 02](https://player.vimeo.com/video/815058564?autoplay=1&app_id=122963)
+* [Lesson 03](https://player.vimeo.com/video/815095313?autoplay=1&app_id=122963)
+* [Lesson 04](https://player.vimeo.com/video/816675380?autoplay=1&app_id=122963)
+* [Lesson 05](https://player.vimeo.com/video/817076091?autoplay=1&app_id=122963)
+* [Lesson 06](https://player.vimeo.com/video/817798548?autoplay=1&app_id=122963)
+* [Lesson 07](https://player.vimeo.com/video/818529478?autoplay=1&app_id=122963)
+* [Lesson 08](https://player.vimeo.com/video/818897307?autoplay=1&app_id=122963)
+* [Lesson 09](https://player.vimeo.com/video/819281081?autoplay=1&app_id=122963)
+* [Lesson 10](https://player.vimeo.com/video/819281855?autoplay=1&app_id=122963)

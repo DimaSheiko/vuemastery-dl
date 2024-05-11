@@ -1,3 +1,10 @@
 # Build A Blog Nuxt3 Content
 [View on VueMastery.com](https://vuemastery.com/courses/build-a-blog-nuxt3-content)
 * [Lesson 01](https://player.vimeo.com/video/730092463?autoplay=1&app_id=122963)
+* [Lesson 02](https://player.vimeo.com/video/731083441?autoplay=1&app_id=122963)
+* [Lesson 03](https://player.vimeo.com/video/732189621?autoplay=1&app_id=122963)
+* [Lesson 04](https://player.vimeo.com/video/732190277?autoplay=1&app_id=122963)
+* [Lesson 05](https://player.vimeo.com/video/732190828?autoplay=1&app_id=122963)
+* [Lesson 06](https://player.vimeo.com/video/732191929?autoplay=1&app_id=122963)
+* [Lesson 07](https://player.vimeo.com/video/732193029?autoplay=1&app_id=122963)
+* [Lesson 08](https://player.vimeo.com/video/732193557?autoplay=1&app_id=122963)
