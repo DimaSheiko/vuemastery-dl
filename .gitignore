@@ -6,3 +6,5 @@ Web
 .DS_Store
 .idea
 *.vtt
+node_modules
+.env
