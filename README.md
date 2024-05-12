@@ -1,14 +1,18 @@
 # vuemastery-dl
+
 [VueMastery](https://www.vuemastery.com/courses) video downloader
 
 You can see [List of existing courses in here](CoursesList.md)
 
 ## Download an entire course:
+
 ### Using nodejs script
-* first `cd data/ANY_DIRRECTORY` like `cd data/advanced-components`
-* download a directory with `node ../../mirror.js`
+
+-   first `cd data/ANY_DIRRECTORY` like `cd data/advanced-components`
+-   download a directory with `node ../../mirror.js`
 
 ### Using python script
+
 The script required **Python 3.6+** and **requests** package.
 you can install it with `pip install requests`
 
@@ -16,28 +20,21 @@ you can install it with `pip install requests`
 2. download entire course with `python3 ../../course-downloader.py`
 
 you can use this options:
-* `-q` for setting video quality: `-q 1080` if the given quality was unavailable, the highest available quality will be used
-* `-s` for downloading subtitles: `-s`
-* `-l` for subtitles language: `-l en`
+
+-   `-q` for setting video quality: `-q 1080` if the given quality was unavailable, the highest available quality will be used
+-   `-s` for downloading subtitles: `-s`
+-   `-l` for subtitles language: `-l en`
 
 as rate limit policy applied to subtitle files, downloading a subtitle may fail. in this situation,
 the subtitle file will contain the subtitle like.
 
 ## Finding video links (for contributors)
-* Open a lesson on the browser
-* Run `document.getElementsByTagName('iframe')[0].src` in the browser's console to get {Video LINK}
-* Run `node download.js {Video LINK}` in project directory. Also you can set quality of video `node download.js {Video LINK} 720`, Default set to 1080
-* Run `node sitemap.js` to get list of courses
 
+-   Open a lesson on the browser
+-   Run `document.getElementsByTagName('iframe')[0].src` in the browser's console to get {Video LINK}
+-   Run `node download.js {Video LINK}` in project directory. Also you can set quality of video `node download.js {Video LINK} 720`, Default set to 1080
+-   Run `node sitemap.js` to get list of courses
 
 # PR
+
 Please put new video links to the data folder to help others, If you still have access to the videos
-
-## Videos not yet completely added:
-
-* [**Validating Vue 3 Forms**](https://www.vuemastery.com/courses/validating-vue3-forms/)
-* [**Querying with GraphQL**](https://www.vuemastery.com/courses/querying-with-graphql/)
-* [**Progressive Web Apps w/ Vue 3**](https://www.vuemastery.com/courses/progressive-web-apps-vue-3/)
-* [**Real World Testing**](https://www.vuemastery.com/courses/real-world-testing/)
-* [**Intro to Vue 3 + TypeScript**](https://www.vuemastery.com/courses/vue3-typescript/)
-* [**Validating Vue 3 Forms**](https://www.vuemastery.com/courses/validating-vue3-forms/why-vee-validate)
